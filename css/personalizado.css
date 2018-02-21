@@ -21,9 +21,7 @@ body{
     -webkit-text-decoration-skip: objects;
 }*/
 
-p{
-    color: #d0d0d0!important;
-}
+
 .header {
     position: relative;
     display: table;
